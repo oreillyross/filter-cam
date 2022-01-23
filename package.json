@@ -1,0 +1,13 @@
+{
+  "name": "fmlvo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run serve"
+  },
+  "dependencies": {
+    "live-server": "1.2.1"
+  }
+}
